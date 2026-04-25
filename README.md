@@ -66,9 +66,9 @@ viraj = {
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-050507?style=for-the-badge&logo=gmail&logoColor=00f5a0)](mailto:your@email.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-050507?style=for-the-badge&logo=linkedin&logoColor=00f5a0)](https://linkedin.com/in/yourprofile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-050507?style=for-the-badge&logo=vercel&logoColor=00f5a0)](https://your-vercel-url.vercel.app)
+[![Email](https://img.shields.io/badge/Email-050507?style=for-the-badge&logo=gmail&logoColor=00f5a0)](mailto:viraj.maheshwari27@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-050507?style=for-the-badge&logo=linkedin&logoColor=00f5a0)](https://linkedin.com/in/virajmaheshwari19)
+[![Portfolio](https://img.shields.io/badge/Portfolio-050507?style=for-the-badge&logo=vercel&logoColor=00f5a0)](https://viraj-portfolio-ten.vercel.app)
 
 </div>
 
